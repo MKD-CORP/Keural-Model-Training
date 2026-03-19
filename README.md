@@ -164,7 +164,7 @@ git clone https://github.com/MKD-CORP/Keural-Model-Training.git
 cd Keural-Model-Training
 
 # Download tokenizer
-git clone https://github.com/mkd-hossain/keural-tokenizer.git
+git clone https://github.com/MKD-CORP/keural-tokenizer.git
 
 # Create required directories
 mkdir -p data/raw_stage1 data/binary checkpoints/stage1 logs
@@ -656,18 +656,18 @@ ValueError: Bad magic in keural_000.bin
 ## Author & License
 
 MKD CO., LTD.
-Email: hossain.najmul@mkd.kr
+Email:
 
 **Keural** is an original foundation model built from scratch. The architecture, training pipeline, tokenizer, and all code are original work.
 
 Related repositories:
-- Tokenizer: [github.com/mkd-hossain/keural-tokenizer](https://github.com/MKD-CORP/keural-tokenizer)
+- Tokenizer: [github.com/MKD-CORP/keural-tokenizer](https://github.com/MKD-CORP/keural-tokenizer)
 
 ```bibtex
 @misc{keural-2026,
-  author = {Md Najmul Hossain},
+  author = {MKD Co, Ltd},
   title  = {Keural: A Korean-English Multilingual MoE Foundation Model},
   year   = {2026},
-  url    = {https://github.com/mkd-hossain/Keural-Model-Training}
+  url    = {https://github.com/MKD-CORP/Keural-Model-Training}
 }
 ```
