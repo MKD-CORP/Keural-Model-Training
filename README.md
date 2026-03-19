@@ -135,7 +135,9 @@ You need a Linux server with NVIDIA GPUs. This has been tested on:
 ### Step 1 — Install Python dependencies
 
 ```bash
+
 # Activate your virtual environment first
+python -m venv venv
 source venv/bin/activate  # or: conda activate your_env
 
 # Core training dependencies
