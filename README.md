@@ -160,7 +160,7 @@ python -c "import torch; print(torch.cuda.device_count(), 'GPUs available'); pri
 ### Step 3 — Clone and set up directories
 
 ```bash
-git clone https://github.com/mkd-hossain/Keural-Model-Training.git
+git clone https://github.com/MKD-CORP/Keural-Model-Training.git
 cd Keural-Model-Training
 
 # Download tokenizer
