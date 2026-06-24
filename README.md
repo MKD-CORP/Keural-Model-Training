@@ -28,10 +28,10 @@
 
 **Keural** is a Korean-English multilingual foundation LLM built entirely from scratch — custom tokenizer, custom architecture, custom training pipeline. It is not a fine-tuned version of any existing model.
 
-- **Language focus:** Korean (primary) + English + Code
+- **Language focus:** Korean + English + Code
 - **Architecture:** Mixture of Experts (MoE) Transformer
 - **Scale:** 14.83B total / ~7.42B active per token
-- **Training data:** 69B+ tokens (Stage 1), targeting 50B+
+- **Training data:** 69B+ tokens (Phase 1), targeting 500B+
 - **Tokenizer:** Custom SentencePiece Unigram, 131,072 vocab
 
 
