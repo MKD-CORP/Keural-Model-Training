@@ -658,6 +658,7 @@ MKD CO., LTD.
 Email:
 
 **Keural** is an original foundation model built from scratch. The architecture, training pipeline, tokenizer, and all code are original work.
+[![License](https://img.shields.io/github/license/MKD-CORP/Keural-MoE-14B-Training)](https://github.com/MKD-CORP/Keural-MoE-14B-Training/blob/main/LICENSE)
 
 Related repositories:
 - Tokenizer: [github.com/MKD-CORP/keural-tokenizer](https://github.com/MKD-CORP/keural-tokenizer)
