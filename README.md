@@ -662,7 +662,7 @@ Email:
 
 Related repositories:
 - Tokenizer: [github.com/MKD-CORP/keural-tokenizer](https://github.com/MKD-CORP/keural-tokenizer)
-
+- Model : https://huggingface.co/mkd-ai/Keural-MoE-14B
 ```bibtex
 @misc{keural-2026,
   author = {MKD Co, Ltd},
