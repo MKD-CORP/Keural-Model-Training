@@ -30,11 +30,10 @@
 
 - **Language focus:** Korean (primary) + English + Code
 - **Architecture:** Mixture of Experts (MoE) Transformer
-- **Scale:** 14.83B total parameters, ~3.7B active per token
-- **Training data:** 43B+ tokens (Stage 1), targeting 50B+
+- **Scale:** 14.83B total / ~7.42B active per token
+- **Training data:** 69B+ tokens (Stage 1), targeting 50B+
 - **Tokenizer:** Custom SentencePiece Unigram, 131,072 vocab
 
-Comparable models: Mistral 22B, Gemma 2 27B, Qwen 2.5 14B
 
 ---
 
